@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Deepskilling.iml" filepath="$PROJECT_DIR$/.idea/Deepskilling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1 Design principles &amp; Patterns/Exercise 1_ Implementing the Singleton Pattern/Exercise 1_ Implementing the Singleton Pattern.iml" filepath="$PROJECT_DIR$/Week 1 Design principles &amp; Patterns/Exercise 1_ Implementing the Singleton Pattern/Exercise 1_ Implementing the Singleton Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1 Algorithms_Data Structures/Exercise 2_ E-commerce Platform Search Function/Exercise 2_ E-commerce Platform Search Function.iml" filepath="$PROJECT_DIR$/Week 1 Algorithms_Data Structures/Exercise 2_ E-commerce Platform Search Function/Exercise 2_ E-commerce Platform Search Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1 Design principles &amp; Patterns/Exercise 2_ Implementing the Factory Method Pattern/Exercise 2_ Implementing the Factory Method Pattern.iml" filepath="$PROJECT_DIR$/Week 1 Design principles &amp; Patterns/Exercise 2_ Implementing the Factory Method Pattern/Exercise 2_ Implementing the Factory Method Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 1 Algorithms_Data Structures/Exercise 7_ Financial Forecasting/Exercise 7_ Financial Forecasting.iml" filepath="$PROJECT_DIR$/Week 1 Algorithms_Data Structures/Exercise 7_ Financial Forecasting/Exercise 7_ Financial Forecasting.iml" />
+    </modules>
+  </component>
+</project>
